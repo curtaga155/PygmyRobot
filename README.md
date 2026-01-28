@@ -1,2 +1,1 @@
-# PygmyRobot
-A robot with Pygmy Forth
+# PygmyRobot: A robot with Pygmy Forth
